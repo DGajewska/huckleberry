@@ -39,7 +39,7 @@ section.max-width-wrapper {
 .intro-chunk p {
   max-width: 350px;
   font-size: 1.25rem;
-  line-height: 1.75rem;
+  line-height: 1.75;
 }
 
 .indented-heading {
@@ -62,5 +62,5 @@ section.max-width-wrapper {
 }
 
 .card p {
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
